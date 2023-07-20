@@ -1,6 +1,6 @@
 The current experiment design follow these four main steps:
 
-![[../../Excalidraw/current_experiment_design.excalidraw.svg]]
+![[current_experiment_design.excalidraw.svg]]
 
 1. **The online candidate screening & selection:**
 	1. [[External Documents/Cuestionario Inicial|Initial questionary]] to determine eligibility
