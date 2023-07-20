@@ -1,7 +1,7 @@
 ### Starting Line
 
 As of the date this contract's signing, we start at the following split
-![Release_Capital_Table_Starting.excalidraw](../../Excalidraw/Release_Capital_Table_Starting.excalidraw.svg)
+![[Release_Capital_Table_Starting.excalidraw.svg]]
 - Nicole has 50% of _“whatever you want but not quite”_ percentage
 - Axel has 30% of _“whatever you want but not quite”_ percentage
 - Nicole has 10% of _“growth”_ percentage
