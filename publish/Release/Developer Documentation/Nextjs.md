@@ -1,0 +1,2 @@
+NextJS is a web framework that allows us to build a website *(both front and backend)* using [[React]] to build our User Interface. See this talk by Theo at NextConf.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W4UhNo3HAMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
